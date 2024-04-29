@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Kafka plugin.iml" filepath="$PROJECT_DIR$/.idea/Kafka plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJ_Platform_Plugin_For_Kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJ_Platform_Plugin_For_Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJ_Platform_Plugin_For_Kafka.main.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJ_Platform_Plugin_For_Kafka.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJ_Platform_Plugin_For_Kafka.test.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJ_Platform_Plugin_For_Kafka.test.iml" />
     </modules>
   </component>
 </project>

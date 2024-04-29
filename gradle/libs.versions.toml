@@ -11,6 +11,8 @@ kover = "0.7.6"
 
 [libraries]
 annotations = { group = "org.jetbrains", name = "annotations", version.ref = "annotations" }
+kafka = { group = 'org.apache.kafka', name = 'kafka_2.13', version = '3.7.0' }
+
 
 [plugins]
 changelog = { id = "org.jetbrains.changelog", version.ref = "changelog" }
