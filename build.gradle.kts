@@ -25,7 +25,7 @@ repositories {
 dependencies {
     implementation(libs.kafka)
     implementation(libs.annotations)
-    implementation("org.slf4j:jul-to-slf4j:1.7.36")
+    implementation("org.slf4j:jul-to-slf4j:2.0.13")
 }
 
 configurations.all {
