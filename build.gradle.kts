@@ -26,6 +26,7 @@ dependencies {
     implementation(libs.kafka)
     implementation(libs.annotations)
     implementation("org.slf4j:jul-to-slf4j:1.7.36")
+    implementation ("com.google.code.gson:gson:2.8.6")
 }
 
 configurations.all {
